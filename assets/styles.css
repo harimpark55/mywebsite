@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(206, 203, 192);
+    text-align: center;  
+    font-family: Tahoma, sans-serif;
+    letter-spacing: 4px;
+    line-height: 100%;
+    cursor: url(../images/Untitled.png), pointer;
+    }
+
+
+a:visited {
+    text-decoration: none;
+    }
+a:link {
+    text-decoration: none;
+    color: rgb(60, 59, 122)
+    }
+a:active {
+    color: rgb(50, 48, 177);
+}
+a:hover, a:active {
+    text-decoration: underline;
+    }
+
+div.links {
+    text-align: left;
+    margin-left: 50px;
+}
